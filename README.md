@@ -2,7 +2,7 @@
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-Project 1: Udacity's VR Nanodegree Course
+Project 1: Udacity Carnival
 
 ## Versions
 - Patch 2017.1.0p4
